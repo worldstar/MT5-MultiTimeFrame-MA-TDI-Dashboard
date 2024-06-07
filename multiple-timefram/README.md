@@ -9,4 +9,4 @@ Multiple-TimeFrams.mq5使用說明
 # 1.安裝XM 交易平台 #
 ## 2.直接執行附件中的ex5檔案 ##
   此時跳出的XM頁面會如下圖
-  ![jpg](C:\Users\mimom\Desktop\搞耍用\快捷截圖\範例圖片.jpg)
+  ![jpg]([(https://drive.google.com/file/d/17ZQjW2s8H-Boh9uDG-Nwsw7Jo6GQTmZb/view?usp=drive_link)])
