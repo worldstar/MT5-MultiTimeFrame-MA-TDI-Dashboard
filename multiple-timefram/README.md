@@ -6,7 +6,9 @@ Multiple-TimeFrams.mq5使用說明
 操作步驟:
 ================
 
-# 1.安裝XM 交易平台 #
+## 1.安裝XM 交易平台 ##
 ## 2.直接執行附件中的ex5檔案 ##
-  此時跳出的XM頁面會如下圖
-  ![jpg]([(https://drive.google.com/file/d/17ZQjW2s8H-Boh9uDG-Nwsw7Jo6GQTmZb/view?usp=drive_link)])
+  ######此時跳出的XM頁面會如下圖######
+  ######![jpg]([(https://drive.google.com/file/d/17ZQjW2s8H-Boh9uDG-Nwsw7Jo6GQTmZb/view?usp=drive_link)])######
+  ######可以自行更改幣值等內容######
+  
