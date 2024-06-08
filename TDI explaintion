@@ -1,0 +1,3 @@
+TDI_expert.mq5 引入了 Traders_Dynamic_Index.mq5
+TDI_expert 中除了引入的 TDI 以外還引入了ADX指標
+利用兩個指標來判斷交易時機
