@@ -1,4 +1,4 @@
-# Panel
+# Trend
 ## 檔案內容
 
 1. Trend.mq5  
