@@ -113,5 +113,6 @@
     }
     ```
 4. ex5為執行檔,可在xm直接使用  
-成品示例  
+成品示例
+按鈕可設定交易取向,並由下方的下拉選單決定選擇的交易貨幣對以及想使用的演算法  
 ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/UI_full.ver-panel/Panel.jpg)
