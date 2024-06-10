@@ -5,6 +5,65 @@
     主要執行程式
 2. Program.mqh  
     物件宣告,動作判別以及執行
+    - 物件宣告
+    ```
+    class CProgram : public CWndEvents{
+    private:
+        //--- Trading operations
+        CTrade            m_trade;
+        //--- Time counters
+        CTimeCounter      m_counter1;
+        CTimeCounter      m_counter2;
+        CTimeCounter      m_counter3;
+                    .
+                    .
+                    .
+    }
+    ```
+    - 動作判別  
+    以id中的標籤(ex. ON_CLICK_BUTTON為按鈕按下)決定檢測的動作,lparam(ex, m_buy.id())檢測動作的物件  
+    並以該物件id呼叫動作函數執行
+    ```
+    void CProgram::OnEvent(const int id,const long &lparam,const double &dparam,const string &sparam){
+        //--- GUI creation event
+        if(id==CHARTEVENT_CUSTOM+ON_END_CREATE_GUI){
+            return;
+        }
+        //--- Button pressing events
+        if(id==CHARTEVENT_CUSTOM+ON_CLICK_BUTTON){
+            if(lparam==m_buy.Id()){
+                OnBuy(lparam);
+                return;
+            }
+                    .
+                    .
+                    .
+        }
+    }
+    ```
+    - 執行  
+    接收到動作判別指令受執行動作  
+    (以下兩函式應可合併為一個)
+    ```
+    bool CProgram::OnBuy(const long id){
+        buy_press();
+        return true;
+    }
+    void CProgram::buy_press(void){
+        m_buy.IsLocked(true);
+        m_stop.IsLocked(false);
+        string temp = m_symbol_select.GetValue();
+        int i=0;
+        while(symbols[i]!=temp){
+            i++;
+        }
+        if(Symbol_trade[i]==0){
+            Symbol_trade[i]=1;
+        }else if(Symbol_trade[i]==2){
+            Symbol_trade[i]=3;
+        }
+    }
+    ```
 3. CreateGUI.mqh  
     UI生成以及初始設定
     - UI生成
