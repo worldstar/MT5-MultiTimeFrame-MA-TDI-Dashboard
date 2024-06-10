@@ -5,6 +5,7 @@ MT5-MultiTimeFrame-MA-TDI-Dashboard
 │
 ├── Traders_Dynamic_Index
 │   ├── Traders_Dynamic_Index.mq5
+│   ├── Traders_expert.mq5
 │   └── TDI_explaintion
 │
 ├── UI_full.ver-panel
