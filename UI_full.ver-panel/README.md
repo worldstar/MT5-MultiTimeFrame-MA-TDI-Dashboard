@@ -1,11 +1,11 @@
 # Panel
 ## 檔案內容
 
-1. Panel.mq5
+1. Panel.mq5  
     主要執行程式
-2. Program.mqh
+2. Program.mqh  
     物件宣告,動作判別以及執行
-3. CreateGUI.mqh
+3. CreateGUI.mqh  
     UI生成以及初始設定
     - UI生成
     ```
@@ -54,5 +54,5 @@
     }
     ```
 
-成品示例
+成品示例  
 ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/UI_full.ver-panel/Panel.jpg)
