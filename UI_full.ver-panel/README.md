@@ -112,6 +112,6 @@
         return(true);
     }
     ```
-
+4. ex5為執行檔,可在xm直接使用
 成品示例  
 ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/UI_full.ver-panel/Panel.jpg)
