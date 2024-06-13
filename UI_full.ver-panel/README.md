@@ -64,6 +64,21 @@
         }
     }
     ```
+    - 抓取indicator
+   在ontick中,以迴圈遍歷所有的symbol,  
+   以if(Symbol_trade[i]==1)判斷使用的交易方法,  
+   將交易演算法放置於if中即可使用
+   (使用的indicator也宣告於此)  
+    ```
+    void CProgram::OnTickEvent(void){
+    for (int i = 0; i < numSymbols; i++){
+      my_symbol=symbols[i];      
+      if(Symbol_trade[i]==1){
+                .
+                .
+                .
+    }
+    ```
 3. CreateGUI.mqh  
     UI生成以及初始設定
     - UI生成
