@@ -22,7 +22,7 @@ MT5-MultiTimeFrame-MA-TDI-Dashboard
 │   ├── Program.mqh
 │   └── README.md
 │
-└── !([multiple-timefram](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/tree/main/multiple-timefram))
+└──([multiple-timefram](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/tree/main/multiple-timefram))
     ├── multiple_timefram.mq5
     ├── multiple_timefram.mqh
     └── README.md
