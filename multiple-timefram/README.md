@@ -9,6 +9,7 @@ Multiple-TimeFrams.mq5使用說明
 ## 1.直接執行附件中的ex5檔案 ##
   ###### 此時跳出的XM頁面會如下圖 ######
   ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E7%AF%84%E4%BE%8B%E5%9C%96%E7%89%87.jpg) ######
+## 2.調整想要交易的幣種 ##
   ###### 可以自行更改進行交易的幣值等內容 ######
   -----------------------------------------------
   ###### 下圖為執行範例 #######
