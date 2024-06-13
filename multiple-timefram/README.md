@@ -6,10 +6,9 @@ Multiple-TimeFrams.mq5使用說明
 操作步驟:
 ================
 
-## 1.安裝XM 交易平台 ##
-## 2.直接執行附件中的ex5檔案 ##
+## 1.直接執行附件中的ex5檔案 ##
   ###### 此時跳出的XM頁面會如下圖 ######
   ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E7%AF%84%E4%BE%8B%E5%9C%96%E7%89%87.jpg) ######
+  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E5%9C%96%E7%89%871.png) #######
   ###### 可以自行更改進行交易的幣值等內容 ######
-## 3.下拉優化選單，選擇 "基於快速基因演算法" "最高複雜標準" ##
-###### 啟用基因演算法來達到此交易演算法的最大效益 
+
