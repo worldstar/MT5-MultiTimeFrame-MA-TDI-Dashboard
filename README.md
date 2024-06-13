@@ -23,7 +23,7 @@ MT5-MultiTimeFrame-MA-TDI-Dashboard
 │   └── README.md  
 │  
 └── multiple-timefram  
-    ├── multiple_timefram.mq5  
-    ├── multiple_timefram.mqh  
-    └── README.md
+&ensp;├── multiple_timefram.mq5  
+&ensp;├── multiple_timefram.mqh  
+&ensp;└── README.md
 
