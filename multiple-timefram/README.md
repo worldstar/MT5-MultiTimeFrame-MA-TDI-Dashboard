@@ -18,4 +18,4 @@ Multiple-TimeFrams.mq5使用說明
   ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E5%9C%96%E7%89%871.png) #######
 ## 3.可調整的變量 ##
   ###### 在 輸入 中可以改變一些指標 #######
-  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E5%9C%96%E7%89%871.png) #######
+  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E8%AE%8A%E6%95%B8.jpg) #######
