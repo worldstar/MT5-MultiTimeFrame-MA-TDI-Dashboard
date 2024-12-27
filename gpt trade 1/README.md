@@ -19,7 +19,7 @@ gpt指令:
 
 ## 1.買單範例 ##
   ###### 達成止盈時: ######
-  ###### ![image]() ######
+  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/gpt%20trade%201/%E8%B2%B7%E5%96%AE%E6%AD%A2%E7%9B%88.jpg) ######
   ###### 達成止損時: ######
   ###### ![image]()######
 ## 2.賣單範例 ##
