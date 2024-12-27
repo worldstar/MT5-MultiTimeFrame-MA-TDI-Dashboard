@@ -5,13 +5,26 @@ gpt 3EMA範例
 
 gpt指令:
 ================
-讓gpt寫出寫一個mq5交易程式，
-使用5,8,13的EMA作為指標，
-當5EMA>8EMA>13EMA時，
-往後找第一根上升k棒，
-以當根k棒的收盤價進行買入，
-當根k棒最低價為止損，
-買進價和止損差距的三倍量作為止盈;
-當5EMA<8EMA<13EMA時，
-往後找第一根下降k棒，以當根k棒的收盤價進行買入，
-當根k棒最高價為止損，買進價和止損差距的三倍量作為止盈
+寫出寫一個mq5交易程式，
+使用EMA5線,EMA8線和EMA13線作為交易判斷指標，
+持續記錄最新的上升與下降k棒
+當EMA5>EMA8>EMA13且前跟k棒為上升k棒時，
+以當根k棒的收盤價進行買入，前三根k棒最低價為止損，
+買進價和止損差距的兩倍量作為止盈;
+當EMA5<EMA8<EMA13時且前跟k棒為下降k棒時，
+以當根k棒的收盤價進行買入，前三根k棒最高價為止損，
+買進價和止損差距的兩倍量作為止盈。
+
+================
+
+## 1.買單範例 ##
+  ###### 達成止盈時: ######
+  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E7%AF%84%E4%BE%8B%E5%9C%96%E7%89%87.jpg) ######
+  ###### 達成止損時: ######
+  ###### ![image]()######
+## 2.賣單範例 ##
+  ###### 達成止盈時 ######
+  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E7%AF%84%E4%BE%8B%E5%9C%96%E7%89%872.jpg) ######
+  -----------------------------------------------
+  ###### 達成止損時 #######
+  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E5%9C%96%E7%89%871.png) #######
