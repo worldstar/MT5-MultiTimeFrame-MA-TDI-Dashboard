@@ -24,7 +24,7 @@ gpt指令:
   ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/gpt%20trade%201/%E8%B2%B7%E5%96%AE%E6%AD%A2%E6%90%8D.jpg) ######
 ## 2.賣單範例 ##
   ###### 達成止盈時 ######
-  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E7%AF%84%E4%BE%8B%E5%9C%96%E7%89%872.jpg) ######
+  ###### ![image]([ttps://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E7%AF%84%E4%BE%8B%E5%9C%96%E7%89%872.jpg](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/gpt%20trade%201/%E8%B3%A3%E5%96%AE%E6%AD%A2%E7%9B%88.jpg)) ######
   -----------------------------------------------
   ###### 達成止損時 #######
-  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E5%9C%96%E7%89%871.png) #######
+  ###### ![image]([https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/multiple-timefram/%E5%9C%96%E7%89%871.png](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/gpt%20trade%201/%E8%B3%A3%E5%96%AE%E6%AD%A2%E6%90%8D.jpg)) #######
