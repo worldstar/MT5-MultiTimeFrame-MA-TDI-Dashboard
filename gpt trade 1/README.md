@@ -1,7 +1,12 @@
-gpt 3EMA範例
+gpt 3EMA交易法
 ==================
 
 透過比對3個EMA線的相對位置進行交易判斷的程式
+
+參考資料
+==================
+[🔴 5-8-13 EMA "SCALPING"](<https://www.youtube.com/watch?v=jCuKGC6a__0&t=1s&ab_channel=TraderDNA>"Title")
+
 
 買單邏輯
 ==================
