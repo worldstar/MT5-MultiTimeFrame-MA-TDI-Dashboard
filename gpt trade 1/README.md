@@ -35,7 +35,10 @@ gpt指令:
 買進價和止損差距的兩倍量作為止盈。
 
 ================
-
+## 操作步驟和選項 ##
+選擇3EMA gpt交易.ex5作為主程式並選擇要交易的幣值
+![image](https://github.com/user-attachments/assets/76cbecfb-b3fb-4afd-898f-d35a4323e850)
+可以選擇交易止盈條件的倍率
 ![image](https://github.com/user-attachments/assets/cb7fd10e-aa45-4f8f-9e01-33e3e9f38501)
 
 ## 1.買單範例 ##
