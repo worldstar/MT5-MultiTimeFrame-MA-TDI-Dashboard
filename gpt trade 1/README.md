@@ -5,7 +5,7 @@ gpt 3EMA交易法
 
 參考資料
 ==================
-[🔴 5-8-13 EMA "SCALPING"](<https://www.youtube.com/watch?v=jCuKGC6a__0&t=1s&ab_channel=TraderDNA>"Title")
+[🔴 5-8-13 EMA "SCALPING"](<https://www.youtube.com/watch?v=jCuKGC6a__0&t=1s&ab_channel=TraderDNA> "Title")
 
 
 買單邏輯
