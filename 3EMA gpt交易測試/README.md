@@ -17,6 +17,7 @@ gpt 3EMA交易法
 以現k棒開盤價作買進，前三根根k棒的最低價作為止損，
 買進價與止損價差的兩倍做止盈
 ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/3EMA%20gpt%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/ScreenHunter_356%20Feb.%2021%2014.32.jpg)
+
 賣單邏輯
 ==================
 紀錄最新的上升k棒的最低價和最高價，
@@ -27,6 +28,7 @@ gpt 3EMA交易法
 前三根根k棒的最高價作為止損，
 買進價與止損價差的兩倍做止盈
 ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/3EMA%20gpt%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/ScreenHunter_357%20Feb.%2021%2014.34.jpg)
+
 gpt指令:
 ================
 寫出寫一個mq5交易程式，
