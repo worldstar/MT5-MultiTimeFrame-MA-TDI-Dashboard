@@ -21,6 +21,10 @@ gpt指令:
 
   ```math
   TP = 進場價格 + 2 \times (進場價格 - 止損價格)
+
+###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/Opening%2015%20Reversal%20Breakout%20Strategy/%E8%B2%B7%E5%96%AE.png) ######
+
+
 ## 1.買單範例 ##
   ###### 達成止盈時: ######
   ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/Opening%2015%20Reversal%20Breakout%20Strategy/%E8%B2%B7%E5%96%AE%E6%AD%A2%E7%9B%88.png) ######
@@ -42,6 +46,9 @@ gpt指令:
 
   ```math
   TP = 進場價格 - 2 \times (止損價格 - 進場價格)
+###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/Opening%2015%20Reversal%20Breakout%20Strategy/%E8%B3%A3%E5%96%AE.png) ######
+
+
 ## 2.賣單範例 ##
   ###### 達成止盈時 ######
   ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/Opening%2015%20Reversal%20Breakout%20Strategy/%E8%B3%A3%E5%96%AE%E6%AD%A2%E7%9B%88.png) ######
