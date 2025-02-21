@@ -20,7 +20,7 @@ K線圖趨勢策略交易
 - 若相減結果為負，則以第五根 K 棒的收盤價進行做多。
 - 以兩倍相減數值作為止盈目標。
 - 以一倍相減數值作為止損設定。
-###### ![image]() ######
+###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/ScreenHunter_358%20Feb.%2021%2014.41.jpg) ######
 
 ## 2. 賣出策略
 檢察連續的五根 K 棒數值，當第一根 K 棒的開盤價減掉第五根 K 棒的收盤價的絕對值，大於五根 K 棒中每一根的大小時：
