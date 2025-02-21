@@ -1,5 +1,3 @@
-@@ -3,26 +3,26 @@ Multiple Time Frame Moving Average and TDI indicator trading, and dashboard for
-
 MT5-MultiTimeFrame-MA-TDI-Dashboard  
 │  
 ├── Traders_Dynamic_Index  
