@@ -48,7 +48,7 @@ gpt指令:
 
 ## 1.買單範例 ##
   ###### 達成止盈時: ######
-  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/gpt%20trade%201/%E8%B2%B7%E5%96%AE%E6%AD%A2%E7%9B%88.jpg) ######
+  ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/3EMA%20gpt%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E8%B2%B7%E5%96%AE%E6%AD%A2%E7%9B%88.jpg) ######
   ###### 達成止損時: ######
   ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/3EMA%20gpt%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E8%B2%B7%E5%96%AE%E6%AD%A2%E6%90%8D.jpg) ######
 ## 2.賣單範例 ##
