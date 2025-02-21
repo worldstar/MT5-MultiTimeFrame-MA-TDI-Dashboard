@@ -21,8 +21,6 @@ K線圖趨勢策略交易
 - 以兩倍相減數值作為止盈目標。
 - 以一倍相減數值作為止損設定。
 
-###### 買單示意圖: ######
-###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%878.png)![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%879.png) ######
 
 ## 2. 賣出策略
 檢察連續的五根 K 棒數值，當第一根 K 棒的開盤價減掉第五根 K 棒的收盤價的絕對值，大於五根 K 棒中每一根的大小時：
@@ -30,8 +28,6 @@ K線圖趨勢策略交易
 - 以兩倍相減數值作為止盈目標。
 - 以一倍相減數值作為止損設定。
 
-###### 賣單示意圖: ######
-###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%8710.png)![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%8711.png) ######
 
 ## 3. gpt指令:
 寫一個mq5交易程式，
@@ -52,10 +48,12 @@ K線圖趨勢策略交易
 ###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%873.png) ######
 
 
+###### 買單示意圖: ######
+###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%878.png)![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%879.png) ######
 
 
-
-
+###### 賣單示意圖: ######
+###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%8710.png)![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%8711.png) ######
 
 
 
