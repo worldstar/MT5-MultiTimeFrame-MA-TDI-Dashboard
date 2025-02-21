@@ -27,7 +27,7 @@ K線圖趨勢策略交易
 - 若相減結果為正，則以第五根 K 棒的收盤價進行做空。
 - 以兩倍相減數值作為止盈目標。
 - 以一倍相減數值作為止損設定。
-###### ![image]() ######
+###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/K%E7%B7%9A%E5%9C%96%E8%B6%A8%E5%8B%A2%E4%BA%A4%E6%98%93%20GPT%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/%E5%9C%96%E7%89%872.png) ######
 
 ## 3. gpt指令:
 寫一個mq5交易程式，
