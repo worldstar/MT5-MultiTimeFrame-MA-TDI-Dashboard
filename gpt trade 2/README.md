@@ -13,6 +13,8 @@ gpt指令:
 若相減結果為正，則以第五根k棒的收盤價進行做空，
 都以兩倍相減數值為止益，一倍相減數值為止損。
 
+# K 線圖趨勢策略交易
+
 ## 參考影片
 [YouTube 影片](https://www.youtube.com/watch?v=YaiLhrUfexY&t=257s)
 
@@ -33,16 +35,20 @@ gpt指令:
 - 以兩倍相減數值作為止盈目標。
 - 以一倍相減數值作為止損設定。
 
-![交易策略示意圖](gpt trade 2/圖片1.png)
+###### 買單示意圖: ######
+###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/gpt%20trade%202/%E5%9C%96%E7%89%871.png) ######
 
 ## 2.2 賣出策略
 檢察連續的五根 K 棒數值，當第一根 K 棒的開盤價減掉第五根 K 棒的收盤價的絕對值，大於五根 K 棒中每一根的大小時：
 - 若相減結果為正，則以第五根 K 棒的收盤價進行做空。
 - 以兩倍相減數值作為止盈目標。
 - 以一倍相減數值作為止損設定。
-  ![交易策略示意圖](gpt trade 2/圖片2.png)
+
+###### 賣單示意圖: ######
+###### ![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/gpt%20trade%202/%E5%9C%96%E7%89%872.png) ######
 ---
-此策略可用於技術分析，適合結合回測數據進一步驗證效果。
+
+
 
 
 
