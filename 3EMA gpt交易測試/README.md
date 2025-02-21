@@ -26,7 +26,7 @@ gpt 3EMA交易法
 且存在紀錄的上升k棒時，以現k棒開盤價作賣出，
 前三根根k棒的最高價作為止損，
 買進價與止損價差的兩倍做止盈
-![image]()
+![image](https://github.com/worldstar/MT5-MultiTimeFrame-MA-TDI-Dashboard/blob/main/3EMA%20gpt%E4%BA%A4%E6%98%93%E6%B8%AC%E8%A9%A6/ScreenHunter_357%20Feb.%2021%2014.34.jpg)
 gpt指令:
 ================
 寫出寫一個mq5交易程式，
